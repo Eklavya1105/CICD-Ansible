@@ -38,7 +38,7 @@ Follow these steps to configure MongoDB on your target hosts:
 
 1. Clone this repository to your Ansible master server:
 
-git clone https://github.com/AmanPathak-DevOps/CICD-Ansible.git
+git clone https://github.com/Eklavya1105/CICD-Ansible.git
 
 
 2. Navigate to the `Ansible-Mongo-Role` directory:

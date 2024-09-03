@@ -52,4 +52,3 @@ Before using this repository, make sure you have the following installed:
 
 
 
-This project is licensed under the [MIT License](link-to-license-file).
